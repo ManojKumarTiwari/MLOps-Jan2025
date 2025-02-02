@@ -80,7 +80,7 @@
   * 264295c (HEAD -> main) initial commit of example.txt file
   ```
 - Here is the screenshot
-  ![Befoe merge](Before_merge.png)
+  ![Befoe merge](before_merge.png)
 
 ### Step 7: Merge the files from different branches
 - Merge from `G24AIT089+1` to `main`
